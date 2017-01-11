@@ -1,1 +1,4 @@
 This repository contains my solution to Data Incubator competition
+
+# question 3
+Chicago is infamous for housing some of the most dangerous gangs in the United State, and the city overall crime rate is substantially higher than the US average. Using the crime dataset recorded from 2001 to present, I would like to visualize patterns within crime incidents in Chicago. Exploring the crime dataset help people to find the safe neighborhood for living and avoid traveling in the dangerous places when the crime rate is high. In addition, I tried to find out the correlation between the crime and housing price. I focused on the Hyde Park neighborhood where the University of Chicago is located. I am sure this project is very useful for new students who are looking for an apartment in the safe area with reasonable price. 
